@@ -1,0 +1,14 @@
+{
+    "name": "GoComics full-size",
+    "url": "undefined",
+    "updateUrl": null,
+    "sections": [
+        {
+            "code": "#sidebar{display: none}\n#content, #content div.feature{width:950px}\n#content div.feature,#content div.top,#content div.bottom{background-image:none}\n#content p.feature_item{display:none}\n#content p.feature_item + div{display:block !important}\n#content div.feature ul.share-nav{margin:0 auto}\ndiv.banner{display:none}",
+            "regexps": [
+                "http:\\/\\/www\\.gocomics\\.com\\/[A-Za-z]+\\/\\d{4}\\/\\d{2}\\/\\d{2}"
+            ]
+
+        }
+    ],
+}
