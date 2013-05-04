@@ -1,7 +1,7 @@
 {
     "name": "GoComics full-size",
     "url": "undefined",
-    "updateUrl": null,
+    "updateUrl": "https://raw.github.com/jfcalcerrada/stylish/master/gocomics.json",
     "sections": [
         {
             "code": "#sidebar{display: none}\n#content, #content div.feature{width:950px}\n#content div.feature,#content div.top,#content div.bottom{background-image:none}\n#content p.feature_item{display:none}\n#content p.feature_item + div{display:block !important}\n#content div.feature ul.share-nav{margin:0 auto}\ndiv.banner{display:none}",
